@@ -14,7 +14,7 @@ Soy Analista de Datos con una Licenciatura en Criminalística. A través de proy
 
 <div id="header" align="center">
   
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanesa-zavala)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanesa-zavala-3b71582a2/)
 
 
 ---
